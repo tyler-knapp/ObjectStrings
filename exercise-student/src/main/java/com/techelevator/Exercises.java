@@ -138,7 +138,12 @@ public class Exercises {
 	 nonStart("shotl", "java") → "hotlava"
 	 */
 	public String nonStart(String a, String b) {
-		return null;
+
+		String firstWordWithoutFirstCharacter = a.substring(1);
+
+		String secondWordWithoutFirstCharacter = b.substring(1);
+
+		return firstWordWithoutFirstCharacter + secondWordWithoutFirstCharacter;
 	}
 
 	/*
@@ -148,6 +153,11 @@ public class Exercises {
 	 left2("java") → "vaja"
 	 left2("Hi") → "Hi"
 	 */
+
+
+
+
+
 	public String left2(String str) {
 
 		String rotatedLeftTwo = new String ( str.substring(2) + str.substring(0,2));
