@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/06_Introduction_Objects_Strings.iml" filepath="$PROJECT_DIR$/.idea/06_Introduction_Objects_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d06-introduction-to-objects-exercise.iml" filepath="$PROJECT_DIR$/exercise-student/m01d06-introduction-to-objects-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d06-introduction-to-objects-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d06-introduction-to-objects-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d06-introduction-to-objects-lecture.iml" filepath="$PROJECT_DIR$/lecture-student/m01d06-introduction-to-objects-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/m01d06-introduction-to-objects-lecture-final.iml" filepath="$PROJECT_DIR$/lecture-final/m01d06-introduction-to-objects-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

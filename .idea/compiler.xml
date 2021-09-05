@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m01d06-introduction-to-objects-exercise" />
+        <module name="m01d06-introduction-to-objects-instructor" />
+        <module name="m01d06-introduction-to-objects-lecture-final" />
+        <module name="m01d06-introduction-to-objects-lecture" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m01d05-command-line-programs-exercise" target="1.5" />
+      <module name="m01d06-introduction-to-objects-exercise" target="11" />
+      <module name="m01d06-introduction-to-objects-instructor" target="11" />
+      <module name="m01d06-introduction-to-objects-lecture" target="11" />
+      <module name="m01d06-introduction-to-objects-lecture-final" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
